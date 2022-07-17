@@ -1,0 +1,1 @@
+audio_play_sound(aaayyyyaaa1, 1000, false);
